@@ -1,4 +1,5 @@
-# vue-hello-world
+# Vue Advices
+Apenas uma demonstração de uso do Vue. Uma página que busca conselhos, baseada na Advice Slip JSON API.
 
 ## Project setup
 ```
