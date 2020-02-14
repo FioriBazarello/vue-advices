@@ -1,5 +1,5 @@
 # Vue Advices
-Just a demo using Vue. An advice seeking page based on the Advice Slip JSON API. Available in https://fioribazarello.github.io/vue-advices/
+Just a demo using Vue. An advice seeking page based on the Advice Slip JSON API.
 
 ## Project setup
 ```
